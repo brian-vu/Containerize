@@ -1,6 +1,6 @@
 # Containerize
 
-*  Getting started with k8s, [minikube](./Getting start with minikube.md) and [kubectl](./Kubectl/md). 
+*  Getting started with k8s, [minikube](./Getting_start_with_minikube.md) and [kubectl](./Kubectl/md). 
 
 *  [Kubernetes architecture overview](./K8s_Architecture.md). 
 
