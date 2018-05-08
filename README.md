@@ -2,6 +2,10 @@
 
 *  Getting started with k8s, minikube and kubectl. 
 
+*  Kubernetes architecture overview. 
+
+*  How to packed your Spring app onto Docker image. 
+
 *  Play ground with deploy Spring app and backed Couchbase servers stack on k8s.
 
 ```sh
