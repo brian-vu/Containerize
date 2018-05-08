@@ -1,12 +1,13 @@
 # Containerize
 
-*  Getting started with k8s, minikube and kubectl. 
+*  Getting started with k8s, [minikube](./Getting start with minikube.md) and [kubectl](./Kubectl/md). 
 
-*  Kubernetes architecture overview. 
+*  [Kubernetes architecture overview](./K8s_Architecture.md). 
 
-*  How to packed your Spring app onto Docker image. 
 
-*  Play ground with deploy Spring app and backed Couchbase servers stack on k8s.
+*  [How to packed your Spring app onto Docker image.](./Containerie-Springboot-App.md) 
+
+*  Play ground with [deploy Spring app and backed Couchbase servers stack on k8s](./Spring_CouchBase_k8s).
 
 ```sh
 $ cd Spring_Couchbase_k8s
