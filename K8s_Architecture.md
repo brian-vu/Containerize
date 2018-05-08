@@ -10,7 +10,7 @@
 
 > Note : in the image below, "ACL" service should be named Gobear Service
 
-![](./images/Kubernetes Concepts-2.png)
+![](./images/k8s_concepts.png)
 
 
 * Node :
