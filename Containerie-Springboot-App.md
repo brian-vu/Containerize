@@ -32,3 +32,27 @@ Add plugins to pom file
     </plugins>
 </build>
 ```
+
+You can build a tagged docker image using the command line like this:
+
+```sh
+./mvnw install dockerfile:build
+```
+
+
+> you can make dockerfile:push automatically run in the install or deploy 
+> lifecycle phases by adding it to the plugin configuration.
+
+```xml
+<executions>
+    <execution>
+        <id>default</id>
+        <phase>install</phase>
+        <goals>
+            <goal>build</goal>
+            <goal>push</goal>
+        </goals>
+    </execution>
+</executions>
+```
+
